@@ -1,0 +1,2 @@
+# NP_RelatedLt
+NucleusCMS Plugin. NP_MetaEXで登録したkeywordsからサイト内の関連する記事一覧を出力。NP_MetaEXがインストールされていなかったり、keywordsが登録されていない場合は、記事のタイトルをキーにする
